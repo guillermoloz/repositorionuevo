@@ -1,3 +1,3 @@
 # repositorionuevo
 ejercicios
-# un ejercicio desarrollado por Guillermo
+# un ejercicio desarrollado por Guillermo.
